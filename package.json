@@ -1,0 +1,14 @@
+{
+  "name": "screen-invaders-server",
+  "version": "0.7.0",
+  "private": true,
+  "scripts": {
+    "start": "node server.cjs"
+  },
+  "engines": {
+    "node": ">=24"
+  },
+  "dependencies": {
+    "ws": "^8.22.0"
+  }
+}
